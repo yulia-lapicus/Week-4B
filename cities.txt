@@ -5,3 +5,4 @@ Berlin
 Oslo
 Moscow
 Sydney
+Tokyo
